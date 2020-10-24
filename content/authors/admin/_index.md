@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include air-sea interaction, upper ocean processes, ocean waves, and coastal processes.
 
 interests:
+- Air-Sea Interaction
 - Upper Ocean Processes
 - Ocean Waves
-- Air-Sea Interaction
+- Coastal Processes 
 
 education:
   courses:
