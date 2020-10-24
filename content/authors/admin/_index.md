@@ -18,7 +18,7 @@ organizations:
   url: "https:///marinesciences.uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include upper ocean processes, ocean waves, and air-sea interaction.
+bio: My research interests include air-sea interaction, upper ocean processes, ocean waves, and coastal processes.
 
 interests:
 - Upper Ocean Processes
@@ -78,6 +78,6 @@ user_groups:
 
 Leonel Romero is an Assistant Professor of Marine Sciences at the University of Connecticut, Avery Point. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
 
-His research combines field observations and numerical modeling to study upper-ocean processes, ocean waves, and air-sea interaction. His main objectives are to improve understanding of wave-current interactions and their impacts on surface wave breaking, air-sea fluxes, and applications. Other research interests include the transport and dispersion of tracers near the ocean surface and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 
+His research combines field observations and numerical modeling to study air-sea interaction, upper-ocean processes, ocean waves, and coastal processes. His main objectives are to improve understanding of wave-current interactions and their impacts on surface wave breaking, air-sea fluxes, and applications. Other research interests include the transport and dispersion of tracers near the ocean surface and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Romero_CVp.pdf" "newtab" >}}resumé{{< /staticref >}}.
