@@ -1,74 +1,83 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Leonel Romero
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Connecticut, Department of Marine Sciences
+  url: "https:///marinesciences.uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include upper ocean processes, ocean waves, and air-sea interaction.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Upper Ocean Processes
+- Ocean Waves
+- Air-Sea Interaction
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Oceanography
+    institution: Scripps Institution of Oceanography
     year: 2008
+  - course: BSc in Physics
+    institution: University of California, San Diego
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '/#contact'
+ # link: '#contact'  # For a direct email link, use "mailto:leonel.romero@uconn.edu".
+  link: mailto:leonel.romero@uconn.edu
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap  # OR `google-scholar`
+  icon_pack: fas  # OR `ai`
+  link: https://scholar.google.com/citations?user=NZtZHmEgTw4C&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  link: https://github.com/Leonel-Romero
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/leonel-romero-93610216/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: media/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Email for Contact widget or Gravatar
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Remove this if you are not using the People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leonel Romero is an Assistant Professor of Marine Sciences at the University of Connecticut, Avery Point. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research combines field observations and numerical modeling to study upper-ocean processes, ocean waves, and air-sea interaction. His main objectives are to improve understanding of wave-current interactions and their impacts on surface wave breaking, air-sea fluxes, and applications. Other research interests include the transport and dispersion of tracers near the ocean surface and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Romero_CVp.pdf" "newtab" >}}resumé{{< /staticref >}}.
