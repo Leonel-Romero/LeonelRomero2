@@ -67,7 +67,7 @@ subtitle = ""
 
 ### Masters and Doctoral
 
-Prof. Romero is looking for Masters and Doctoral students to join his lab.  Interested students should:
+Prof. Romero is looking for Masters and Ph.D. students to join his lab.  Interested students should:
 
 1) Contact Prof. Romero via [email](mailto:leonel.romero@uconn.edu) to express interest and introduce yourself
 
