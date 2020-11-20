@@ -48,6 +48,6 @@ subtitle = ""
  css_class = ""
 +++
 ### Graduate
-Nemesis Aguilar Tepole (MS 2018 @ [CICESE](https://cicese.repositorioinstitucional.mx/jspui/handle/1007/2054), co-advisor: Enric Pallas-Sanz) - [Thesis](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2054/1/tesis_Aguilar_Tepole_Nemesis_16_feb_2018B.pdf): Dynamics of Submesocale Fronts in the Santa Barbara Channel
+Nemesis Aguilar Tepole (MS 2018 @ [CICESE](https://cicese.repositorioinstitucional.mx/jspui/handle/1007/2054), co-advisor: Enric Pallas-Sanz) - [Thesis](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2054/1/tesis_Aguilar_Tepole_Nemesis_16_feb_2018B.pdf): Submesoscale Fronts in the Santa Barbara Channel
 ### Undergraduate Research Assistants
 Kabir Lubana - Idealized and Regional Modeling of Microseisms 
