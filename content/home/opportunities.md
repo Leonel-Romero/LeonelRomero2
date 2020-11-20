@@ -67,7 +67,11 @@ subtitle = ""
 
 ### Masters and Doctoral
 
-Prof. Romero is looking for Masters and Ph.D. students to join his lab.  Interested students should:
+Prof. Romero is looking for Masters and Ph.D. students to join his lab. 
+
+Potential research topics include field observations and/or modeling of ocean waves, upper ocean processes, and air-sea interaction.
+
+Interested students should:
 
 1) Contact Prof. Romero via [email](mailto:leonel.romero@uconn.edu) to express interest and introduce yourself
 
