@@ -8,7 +8,7 @@ abstract: ""
 featured: true 
 publication: "*Journal of Physical Oceanography*"
 tags: ["air-sea interaction", "wave  breaking", "microseisms", "mean-square-slope" ]
-url_pdf: "https://leonelromero.com/publication/romero-2020/Romero_n_Lubana.2022.pdf"
+url_pdf: "https://leonelromero.com/publication/romero-2022/Romero_n_Lubana.2022.pdf"
 doi: "10.1175/JPO-D-21-0299.1"
 
 # Featured image
