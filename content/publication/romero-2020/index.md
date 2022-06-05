@@ -17,6 +17,6 @@ image:
  # caption: 'Image credit: [**Unsplash**]( GRL )'
   caption: 'Wave modulation due to submesoscale current variability'
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Center"
+  focal_point: "Top"
   preview_only: false
 ---
