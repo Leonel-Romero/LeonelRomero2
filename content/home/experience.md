@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Connecticut"
   date_start = "2020-09-11"
   date_end = ""
-  description = """."""
+#  description = """."""
 
 
 
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2020-07-01"
   date_end = "2020-09-10"
-  description = """."""
+#  description = """."""
 
 
 [[experience]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2015-10-01"
   date_end = "2020-06-30"
-  description = """."""
+#  description = """."""
  # Responsibilities include:
   
  # * Field Experiments
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2011-06-01"
   date_end = "2015-10-01"
-  description = """."""
+#  description = """."""
 
 
 [[experience]]
@@ -72,6 +72,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2008-06-01"
   date_end = "2011-05-31"
-  description = """."""
+#  description = """."""
 
 +++
