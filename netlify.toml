@@ -24,11 +24,3 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
-
-[[redirects]]
-  from = "/*"
-  to = "https://uconn-air-sea-lab.netlify.app"
-  status = 301
-  force = true
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
