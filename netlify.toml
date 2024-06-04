@@ -29,6 +29,6 @@
   from = "https://leonelromero.com"
   to = "https://uconn-air-sea-lab.netlify.app"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
