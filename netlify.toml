@@ -26,7 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://leonelromero.com"
+  from = "/*"
   to = "https://uconn-air-sea-lab.netlify.app"
   status = 301
   force = true
